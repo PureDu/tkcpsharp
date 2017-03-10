@@ -1,0 +1,6 @@
+E:\csharp\Tkcp\Tkcp\bin\Debug\Tkcp.exe.config
+E:\csharp\Tkcp\Tkcp\bin\Debug\Tkcp.exe
+E:\csharp\Tkcp\Tkcp\bin\Debug\Tkcp.pdb
+E:\csharp\Tkcp\Tkcp\obj\Debug\Tkcp.exe
+E:\csharp\Tkcp\Tkcp\obj\Debug\Tkcp.pdb
+E:\csharp\Tkcp\Tkcp\obj\Debug\Tkcp.csprojResolveAssemblyReference.cache

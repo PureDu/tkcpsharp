@@ -1,0 +1,346 @@
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
+Exception type InvalidOperationException data System.Collections.ListDictionaryInternal stacktrace    在 System.Net.Sockets.TcpClient.GetStream()
+   在 Tkcp.TkcpClient.receiveTcpData() 位置 E:\csharp\Tkcp\Tkcp\Tkcp.cs:行号 239
